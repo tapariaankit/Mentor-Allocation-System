@@ -1,0 +1,126 @@
+body{
+	background-image:url(nit.jpg);
+	background-size:120%;
+	
+
+	
+}
+h1{
+ TEXT-align:center; font-family:"Lucida Grande"; color:	#5C0000;min-width:750px;min-margin-left:100px ;  text-shadow: 5px 5px 5px #B8E62E;
+}
+#center {
+	margin-top:10px;
+	margin-left:15%;
+	height:550px;
+	width:70%;
+	opacity:0.8;
+	background-color:white;
+	border:2px solid red;
+	min-width:750px;
+	 box-shadow: 18px 15px 5px #888888;
+}
+#center #top {
+      color:660033;
+	font-weight:bold;
+	padding-top:15px;
+	padding-left:35px;
+	font-size:30px;
+	font-family:Monotype Corsiva;
+	padding-right:35px;
+}
+table {
+	border-spacing:20px 10px;
+}
+#center #left {
+	padding-left:40px;
+	float:left;
+}
+
+#submit {
+
+	-webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+ font-family:"Merriweather Sans", sans-serif;
+    
+  color: #ffffff;
+  font-size: 17px;
+  background: #0b32d1;
+  padding: 7px 8px 5px 7px;
+  text-decoration: none;
+  
+}
+ #submit:hover {
+  background: #5cfc3c;
+  text-decoration: none;
+  cursor:pointer;
+}
+#center #right{
+	background-image:url(nitrkl.jpg);
+	float:right;
+	height:500px;
+	width:300px;
+	margin-right:50px;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+a{ 
+  color:blue;
+  text-decoration:none;
+  
+}
+a:hover{
+	text-decoration:underline;
+}
+td{
+color:660033;
+ font-weight: bold;
+font-family:"Merriweather Sans", sans-serif;
+}
+input{
+height:20px;
+width:150px;
+border-radius:5px;}
+
+#def{-webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+ font-family:"Merriweather Sans", sans-serif;
+    
+ color: #ffffff;
+  font-size: 17px;
+   width:125px;
+ height:32px;
+  background-color: #0b32d1;
+  padding: 7px 8px 5px 7px;
+  text-decoration: none;
+}
+
+#abc{-webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+ font-family:"Merriweather Sans", sans-serif;
+    
+  color: #ffffff;
+  font-size: 17px;
+  width:130px;
+   height:32px;
+  background-color: #0b32d1;
+  padding: 7px 8px 5px 7px;
+  text-decoration: none;
+}
+#abc:hover {
+  background-color: #5cfc3c;
+  text-decoration: none;
+  cursor:pointer;
+  }
+#def:hover {
+  background-color: #5cfc3c;
+  text-decoration: none;
+  cursor:pointer;
+  }
+  
+  #xyz{
+  position:relative;
+  margin-left:0px;
+  left:-150px;}
